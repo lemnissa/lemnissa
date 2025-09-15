@@ -1,4 +1,4 @@
-Hi! I'm Anastasia, a Master's student at MIPT with a strong background in math and an interest in Data Science and Machine Learning.  
+Hi! I'm Anastasia, a Master's student at MIPT.  
 
 On my GitHub you’ll find:  
 - **Kaggle competitions** — Titanic (classification), House Prices (regression), NLP Disaster Tweets (transformers).  
